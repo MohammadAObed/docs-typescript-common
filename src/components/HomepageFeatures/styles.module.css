@@ -1,11 +1,30 @@
+main {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
   width: 100%;
+  flex-wrap: wrap;
 }
 
-.featureSvg {
-  height: 200px;
+.feature {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.featureHidden {
+  height: 50px;
   width: 200px;
+}
+
+.mx400 {
+  max-width: 400px;
 }
