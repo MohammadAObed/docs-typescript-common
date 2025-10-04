@@ -18,6 +18,11 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Fetch typescript-common sources
+        uses: actions/checkout@v4
+        with:
+          repository: MohammadAObed/typescript-common
+          path: ../typescript-common
       - uses: actions/setup-node@v4
         with:
           node-version: 22 # Update this version if you have a higher one
