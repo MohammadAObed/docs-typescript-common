@@ -104,7 +104,7 @@ const config: Config = {
       {
         entryPoints: ["../typescript-common/src"],
         entryPointStrategy: "expand",
-        tsconfig: "../typescript-common/tsconfig.json",
+        tsconfig: "../tsconfig.json",
         plugin: ["typedoc-plugin-markdown"],
         out: "docs/app",
         cleanOutputDir: false,
