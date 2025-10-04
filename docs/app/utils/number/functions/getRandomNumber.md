@@ -2,7 +2,7 @@
 
 > **getRandomNumber**(`min`, `max`, `dontMatchNumbers`): `number`
 
-Defined in: [utils/number.ts:7](https://github.com/MohammadAObed/typescript-common/blob/d459fa9d26ecd375ae77c552795d7f7b8662e87a/src/utils/number.ts#L7)
+Defined in: [utils/number.ts:7](https://github.com/MohammadAObed/typescript-common/blob/8c4e86bc13fead3d3a005039320ea8bf26c35430/src/utils/number.ts#L7)
 
 ## Parameters
 
