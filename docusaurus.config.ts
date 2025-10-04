@@ -101,7 +101,7 @@ const config: Config = {
     [
       "docusaurus-plugin-typedoc",
       {
-        entryPoints: ["../typescript-common/src"],
+        entryPoints: ["../typescript-common/src/utils/number.ts"],
         entryPointStrategy: "expand",
         tsconfig: "../typescript-common/tsconfig.json",
         plugin: ["typedoc-plugin-markdown"],

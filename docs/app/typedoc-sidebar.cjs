@@ -1,4 +1,4 @@
 // @ts-check
 /** @type {import("@docusaurus/plugin-content-docs").SidebarsConfig} */
-const typedocSidebar = {items:[{type:"category",label:"constants",items:[{type:"category",label:"common",items:[{type:"category",label:"Variables",items:[{type:"doc",id:"app/constants/common/variables/InclusiveOffset",label:"InclusiveOffset"},{type:"doc",id:"app/constants/common/variables/LoopIncrement",label:"LoopIncrement"},{type:"doc",id:"app/constants/common/variables/MaxLoopIteration",label:"MaxLoopIteration"}]}],link:{type:"doc",id:"app/constants/common/index"}}],link:{type:"doc",id:"app/constants/index"}},{type:"doc",id:"app/index/index",label:"index"},{type:"category",label:"utils",items:[{type:"category",label:"number",items:[{type:"category",label:"Functions",items:[{type:"doc",id:"app/utils/number/functions/getRandomNumber",label:"getRandomNumber"}]}],link:{type:"doc",id:"app/utils/number/index"}}],link:{type:"doc",id:"app/utils/index"}}]};
+const typedocSidebar = {items:[{type:"category",label:"Functions",items:[{type:"doc",id:"app/functions/getRandomNumber",label:"getRandomNumber"}]}]};
 module.exports = typedocSidebar.items;
