@@ -64,6 +64,7 @@ const config: Config = {
       },
       items: [
         { type: "docSidebar", sidebarId: "tutorialSidebar", position: "left", label: "Docs" },
+        { to: "/blog", label: "Blog", position: "left" },
         { href: GITHUB_URL, label: "GitHub", position: "right" },
       ],
     },
@@ -101,7 +102,7 @@ const config: Config = {
     [
       "docusaurus-plugin-typedoc",
       {
-        entryPoints: ["../typescript-common/src/utils/number.ts"],
+        entryPoints: ["../typescript-common/src"],
         entryPointStrategy: "expand",
         tsconfig: "../typescript-common/tsconfig.json",
         plugin: ["typedoc-plugin-markdown"],
