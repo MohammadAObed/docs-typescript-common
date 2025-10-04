@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_typescript_common=self.webpackChunkdocs_typescript_common||[]).push([[903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/docs-typescript-common/blog","blogTitle":"Blog","authorsListPath":"/docs-typescript-common/blog/authors"}')}}]);

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://MohammadAObed.github.io/docs-typescript-common/blog</id>
+    <title>docs-typescript-common Blog</title>
+    <updated>2025-10-04T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://MohammadAObed.github.io/docs-typescript-common/blog"/>
+    <subtitle>docs-typescript-common Blog</subtitle>
+    <icon>https://MohammadAObed.github.io/docs-typescript-common/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Personal Notes]]></title>
+        <id>https://MohammadAObed.github.io/docs-typescript-common/blog/personal-notes</id>
+        <link href="https://MohammadAObed.github.io/docs-typescript-common/blog/personal-notes"/>
+        <updated>2025-10-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Notes that might not fit anywhere else.]]></summary>
+        <content type="html"><![CDATA[<p>Notes that might not fit anywhere else.</p>
+<!-- -->
+<p>Here are my personal notes:</p>]]></content>
+        <author>
+            <name>Mohammad Obed</name>
+            <uri>https://www.linkedin.com/in/mohammad-obed</uri>
+        </author>
+        <category label="Notes" term="Notes"/>
+    </entry>
+</feed>
